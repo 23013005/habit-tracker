@@ -1,3 +1,21 @@
+# Habit Tracker App
+
+# Nama Aplikasi : Habit Tracker App
+
+# Deskripsi Aplikasi  
+   Habit Tracker App adalah aplikasi mobile berbasis Android yang dirancang untuk membantu pengguna membangun dan menjaga kebiasaan positif secara konsisten. Aplikasi ini memungkinkan pengguna untuk mencatat habit harian, memantau progress secara visual, serta mendapatkan pengingat otomatis agar tetap disiplin menjalankan kebiasaan yang telah ditetapkan.
+   
+   Aplikasi menyediakan fitur manajemen habit yang lengkap, mulai dari menambah, mengedit, menghapus, hingga menandai habit yang telah diselesaikan. Progress habit ditampilkan dalam bentuk visualisasi harian, mingguan (7 hari), dan bulanan (30 hari) sehingga pengguna dapat dengan mudah mengevaluasi tingkat konsistensi mereka dari waktu ke waktu.
+
+   Untuk mendukung kedisiplinan pengguna, aplikasi dilengkapi dengan fitur pengingat (reminder) otomatis yang berjalan setiap beberapa jam. Notifikasi tetap aktif meskipun aplikasi ditutup, sehingga aplikasi dapat berfungsi secara mandiri tanpa harus terus dibuka oleh pengguna. Seluruh data disimpan secara lokal pada perangkat pengguna, sehingga aplikasi dapat digunakan tanpa koneksi internet. Selain itu, aplikasi mendukung mode terang dan gelap dengan tampilan antarmuka yang sederhana dan mudah digunakan. Aplikasi ini dapat dibangun dalam bentuk file APK dan siap untuk dipasang maupun dibagikan kepada pengguna lain.
+
+# Nama Kelompok : Kelompok 6 (MPPL - Mobile Programming)
+# Anggota Kelompok : 
+1. Reagen Sinadia (23013012)
+2. Vincentius Kojongian (23013022)
+3. Bradley Umboh (23013005)
+4. Virgie Lineleyann (23013052)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
